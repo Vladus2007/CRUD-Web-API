@@ -259,9 +259,6 @@ ENTRYPOINT ["dotnet", "NoteFlow.API.dll"]
 4. Запушьте branch: `git push origin feature/AmazingFeature`
 5. Откройте Pull Request
 
-## 📄 Лицензия
-
-Этот проект лицензирован под MIT License - смотрите файл [LICENSE](LICENSE) для деталей.
 
 ## 👥 Авторы
 
